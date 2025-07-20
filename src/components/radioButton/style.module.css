@@ -1,0 +1,59 @@
+.customRadio {
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    margin-left: 10px;
+}
+
+.hiddenRadio {
+    display: none;
+}
+
+.label {
+    color: #1890ff;
+    background: white;
+    border: 2px solid transparent;
+    border-radius: 8px;
+    padding: 6px 12px;
+    display: inline-block;
+    position: relative;
+    transition: all 0.2s ease;
+}
+
+
+.label::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 16px;
+    height: 16px;
+    background-color: #1890ff;
+    clip-path: polygon(100% 0, 100% 100%, 0 0);
+    display: none;
+    z-index: 1;
+}
+
+
+.label::before {
+    content: "✓";
+    position: absolute;
+    top: -3px;
+    right: 1px;
+    color: white;
+    font-size: 10px;
+    font-weight: bold;
+    display: none;
+    z-index: 2;
+}
+
+.hiddenRadio:checked+.label {
+    border: 2px solid #1890ff;
+}
+
+.hiddenRadio:checked+.label::after,
+.hiddenRadio:checked+.label::before {
+    display: block;
+}

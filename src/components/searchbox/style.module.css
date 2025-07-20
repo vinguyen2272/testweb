@@ -1,0 +1,48 @@
+.search {
+    max-width: 739px;
+    height: 64px;
+    background: #f3f4f7;
+    padding: 10px;
+    position: relative;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 50px;
+}
+
+.search>input {
+    background: transparent;
+    outline: none;
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.8);
+    width: 100%;
+    height: 40px;
+    border: 0px;
+    padding: 0 20px;
+    font-weight: 400;
+}
+
+.search button {
+    position: absolute;
+    z-index: 100;
+    border-radius: 40px;
+    border: none;
+}
+
+.onCamera {
+    color: black;
+    right: 93px;
+    top: 20px;
+    font-size: 25px;
+}
+
+.onSearch {
+    top: 3px;
+    right: 4px;
+    width: 76px;
+    height: 56px;
+    background: #0373F3;
+}
+
+.onSearch svg {
+    font-size: 28px;
+    color: #f3f4f7;
+}
