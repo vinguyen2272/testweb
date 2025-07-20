@@ -8,7 +8,7 @@
         "origin": "Đức",
         "trademark": "AsaKashi",
         "year": "2021",
-        "image": "../src/assets/product/product1.jpg"
+        "image": "./product/product1.jpg"
     },
     {
         "id": 2,
@@ -19,7 +19,7 @@
         "origin": "Nhật Bản",
         "trademark": "Bosh",
         "year": "2020",
-        "image": "../src/assets/product/product2.jpg"
+        "image": "./product/product2.jpg"
     },
     {
         "id": 3,
@@ -30,7 +30,7 @@
         "origin": "Đức",
         "trademark": "Huyndai",
         "year": "2019",
-        "image": "../src/assets/product/product3.jpg"
+        "image": "./product/product3.jpg"
     },
     {
         "id": 4,
@@ -41,7 +41,7 @@
         "origin": "Trung Quốc",
         "trademark": "AsaKashi",
         "year": "2020",
-        "image": "../src/assets/product/product4.jpg"
+        "image": "./product/product4.jpg"
     },
     {
         "id": 5,
@@ -52,7 +52,7 @@
         "origin": "Nhật Bản",
         "trademark": "Bosh",
         "year": "2018",
-        "image": "../src/assets/product/product5.jpg"
+        "image": "./product/product5.jpg"
     },
     {
         "id": 6,
@@ -63,7 +63,7 @@
         "origin": "Đức",
         "trademark": "AsaKashi",
         "year": "2019",
-        "image": "../src/assets/product/product6.jpg"
+        "image": "./product/product6.jpg"
     },
     {
         "id": 7,
@@ -74,7 +74,7 @@
         "origin": "Trung Quốc",
         "trademark": "Huyndai",
         "year": "2021",
-        "image": "../src/assets/product/product7.jpg"
+        "image": "./product/product7.jpg"
     },
     {
         "id": 8,
@@ -85,7 +85,7 @@
         "origin": "Nhật Bản",
         "trademark": "Huyndai",
         "year": "2020",
-        "image": "../src/assets/product/product8.jpg"
+        "image": "./product/product8.jpg"
     },
     {
         "id": 9,
@@ -96,7 +96,7 @@
         "origin": "Đức",
         "trademark": "Bosh",
         "year": "2019",
-        "image": "../src/assets/product/product9.jpg"
+        "image": "./product/product9.jpg"
     },
     {
         "id": 10,
@@ -107,7 +107,7 @@
         "origin": "Trung Quốc",
         "trademark": "AsaKashi",
         "year": "2018",
-        "image": "../src/assets/product/product10.jpg"
+        "image": "./product/product10.jpg"
     },
     {
         "id": 11,
@@ -118,7 +118,7 @@
         "origin": "Nhật Bản",
         "trademark": "AsaKashi",
         "year": "2021",
-        "image": "../src/assets/product/product11.jpg"
+        "image": "./product/product11.jpg"
     },
     {
         "id": 12,
@@ -129,6 +129,6 @@
         "origin": "Đức",
         "trademark": "Bosh",
         "year": "2020",
-        "image": "../src/assets/product/product12.jpg"
+        "image": "./product/product12.jpg"
     }
 ]
