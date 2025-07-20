@@ -100,35 +100,123 @@
     },
     {
         "id": 10,
-        "name": "Lọc gió động cơ Air Filter – Suzuki XL7 (90123456)",
-        "originalPrice": 385000,
-        "discountedPrice": 297000,
-        "category": "Bộ lọc nhiên liệu",
-        "origin": "Trung Quốc",
+        "name": "Lọc gió động cơ Air Filter – Chevrolet Colorado, Trailblazer (52046262)",
+        "originalPrice": 392000,
+        "discountedPrice": 299000,
+        "category": "Bộ lọc không khí",
+        "origin": "Đức",
         "trademark": "AsaKashi",
-        "year": "2018",
-        "image": "./product/product10.jpg"
+        "year": "2021",
+        "image": "./product/product1.jpg"
     },
     {
         "id": 11,
-        "name": "Lọc gió động cơ Air Filter – Suzuki XL7 (90123456)",
-        "originalPrice": 385000,
-        "discountedPrice": 297000,
+        "name": "Lọc gió động cơ Air Filter – Ford Ranger (12345678)",
+        "originalPrice": 400000,
+        "discountedPrice": 310000,
         "category": "Bộ lọc không khí",
         "origin": "Nhật Bản",
-        "trademark": "AsaKashi",
-        "year": "2021",
-        "image": "./product/product11.jpg"
+        "trademark": "Bosh",
+        "year": "2020",
+        "image": "./product/product2.jpg"
     },
     {
         "id": 12,
-        "name": "Lọc gió động cơ Air Filter – Suzuki XL7 (90123456)",
-        "originalPrice": 385000,
-        "discountedPrice": 297000,
+        "name": "Lọc gió động cơ Air Filter – Mazda BT-50 (23456789)",
+        "originalPrice": 389000,
+        "discountedPrice": 295000,
+        "category": "Bộ lọc nhiên liệu",
+        "origin": "Đức",
+        "trademark": "Huyndai",
+        "year": "2019",
+        "image": "./product/product3.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Lọc gió động cơ Air Filter – Toyota Hilux (34567890)",
+        "originalPrice": 410000,
+        "discountedPrice": 315000,
+        "category": "Bộ lọc nhiên liệu",
+        "origin": "Trung Quốc",
+        "trademark": "AsaKashi",
+        "year": "2020",
+        "image": "./product/product4.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Lọc gió động cơ Air Filter – Mitsubishi Triton (45678901)",
+        "originalPrice": 395000,
+        "discountedPrice": 305000,
+        "category": "Bộ lọc nhiên liệu",
+        "origin": "Nhật Bản",
+        "trademark": "Bosh",
+        "year": "2018",
+        "image": "./product/product5.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Lọc gió động cơ Air Filter – Nissan Navara (56789012)",
+        "originalPrice": 387000,
+        "discountedPrice": 298000,
         "category": "Bộ lọc cabin",
         "origin": "Đức",
-        "trademark": "Bosh",
+        "trademark": "AsaKashi",
+        "year": "2019",
+        "image": "./product/product6.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Lọc gió động cơ Air Filter – Isuzu D-Max (67890123)",
+        "originalPrice": 399000,
+        "discountedPrice": 309000,
+        "category": "Bộ lọc cabin",
+        "origin": "Trung Quốc",
+        "trademark": "Huyndai",
+        "year": "2021",
+        "image": "./product/product7.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Lọc gió động cơ Air Filter – Hyundai SantaFe (78901234)",
+        "originalPrice": 405000,
+        "discountedPrice": 312000,
+        "category": "Bộ lọc dầu",
+        "origin": "Nhật Bản",
+        "trademark": "Huyndai",
         "year": "2020",
-        "image": "./product/product12.jpg"
+        "image": "./product/product8.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Lọc gió động cơ Air Filter – Kia Sorento (89012345)",
+        "originalPrice": 390000,
+        "discountedPrice": 300000,
+        "category": "Bộ lọc không khí",
+        "origin": "Đức",
+        "trademark": "Bosh",
+        "year": "2019",
+        "image": "./product/product9.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Lọc gió động cơ Air Filter – Mitsubishi Triton (45678901)",
+        "originalPrice": 395000,
+        "discountedPrice": 305000,
+        "category": "Bộ lọc nhiên liệu",
+        "origin": "Nhật Bản",
+        "trademark": "Bosh",
+        "year": "2018",
+        "image": "./product/product5.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Lọc gió động cơ Air Filter – Nissan Navara (56789012)",
+        "originalPrice": 387000,
+        "discountedPrice": 298000,
+        "category": "Bộ lọc cabin",
+        "origin": "Đức",
+        "trademark": "AsaKashi",
+        "year": "2019",
+        "image": "./product/product6.jpg"
     }
 ]
