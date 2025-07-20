@@ -1,0 +1,71 @@
+.home {
+    background: #F4F6F8;
+
+}
+
+.wrapCarousel {
+    padding: 48px;
+    background: #025FCA;
+    margin-top: -4px;
+    border-radius: 0px 0px 12px 12px;
+    position: relative;
+}
+
+:global(.swiper-button-prev),
+:global(.swiper-button-next) {
+    color: #025FCA !important;
+    background-color: #CDE4FE;
+    display: block;
+    z-index: 10;
+    top: 40%;
+    border: none;
+    border-radius: 50%;
+    width: 40px !important;
+    height: 40px !important;
+}
+
+:global(.swiper-button-prev::after),
+:global(.swiper-button-next::after) {
+    font-size: 14px !important;
+}
+
+:global(.swiper-button-prev:hover),
+:global(.swiper-button-next:hover) {
+    background-color: #e0e2e5;
+}
+
+
+
+.titleProductList {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 8px;
+}
+
+.titleProductList>p {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+}
+
+.titleRadio {
+    display: flex;
+    align-items: center;
+}
+
+.titleRadio p {
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.cItems {
+    padding: 16px;
+    background: white;
+    border-radius: 16px;
+    margin: 40px 0;
+    cursor: pointer;
+}
+
+.customradio {
+    flex-direction: row;
+}
